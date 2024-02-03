@@ -1,18 +1,28 @@
 
 Chalet Platform
 
+
+
 Inspired by the Booking application, the idea of Chalets was created as an alternative to hotels. It provides information about chalets, customer reviews and comments below each displayed chalet, in addition to prices and photos of the chalets from the inside and outside. This idea is implemented to save time and effort for those who want to rent chalets and serve them better.
 
 This idea will be developed as a web application, where the work will be divided into two parts:
 
 Backend: It will be developed using the Django library in Python.
+
 Frontend: It will be developed using HTML and Bootstrap5.
 
 
+
+
 Project Team:
+
 Ibrahim Majid Al-Jumaili
+
 Ali Khamis Al-Hajri
+
 Mishaal Talal Al-Shammari
+
 Walid Yacoub Al-Banaqi
+
 Supervisor:
 Dr. Badr Al-Ubaywi
